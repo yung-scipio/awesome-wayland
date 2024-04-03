@@ -190,6 +190,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 ## PDF Viewers
 
 * [Okular](https://invent.kde.org/graphics/okular) - KDE Document Viewer
+* [Sioyek](https://github.com/ahrm/sioyek) - A PDF viewer with a focus on technical books and research papers
 * [zathura](https://git.pwmt.org/pwmt/zathura) - A document viewer
 
 ## Process Managers
